@@ -15,7 +15,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me /Sobre mim
 
-<picture> <img align="right" src="https://giphy.com/gifs/richard-ayoade-it-crowd-maurice-moss-dbtDDSvWErdf2" width = 300px></picture>
+<picture> <img align="right" src="[https://giphy.com/gifs/richard-ayoade-it-crowd-maurice-moss-dbtDDSvWErdf2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg2NzJydjVibmloeHhtdnltazI1YWxtMTNqenV6bzZjbTBwamlpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.webp)" width = 300px></picture>
 
 - :school: I am a `Self-taughth` junior Developer 
 - :technologist: **Currently working on** `Backend` **&** `Data Science`
