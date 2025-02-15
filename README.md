@@ -12,7 +12,6 @@
 
 - :school: I am a `Self-taught` junior Developer
 - :technologist: **Currently working on** `Backend` **&** `Data Science`
-- :nerd_face: Always believe in **"Power of friendship"**
 
 <br clear="both"/>
 
