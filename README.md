@@ -17,9 +17,11 @@
 
 ## 🛠️ My Skills
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"> Programming Languages
-- JavaScript
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"> Programming Languages
 - Java
+
+- ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"> FrameWorks
+- Spring Boot
 
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="20px"> Databases
 - PostgreSQL
@@ -31,7 +33,6 @@
 - VSCode
 
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"> Operating Systems
-- Ubuntu
 - Linux
 
 <br>
